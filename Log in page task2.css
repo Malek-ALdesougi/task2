@@ -1,0 +1,205 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    
+}
+/* This is navigation bar ul */
+ul {
+    display:inline;
+    position: relative;
+    bottom:3px;
+    left:200px;
+    list-style-type: none; 
+}
+nav{
+    background-color:rgb(5, 72, 50);
+    height:70px;
+    position: relative; 
+    margin-bottom: 100px; 
+}
+li{
+    display: inline;
+    margin: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode';  
+    font-size:small;
+}
+#anchortagnav{
+    text-decoration:none;
+    color:black;
+}
+/* This is navigation par logo */
+#logo{
+    position:relative;
+    left:150px;
+    top: 12px;   
+}
+/* This is nav buttons */
+#buttons div {
+    display:inline;
+    position:relative;
+    bottom:27px;
+    left:1100px;
+    margin:10px;
+}
+#buttons div button{
+    padding:5px;
+    width:100px;
+    cursor: pointer;
+}
+
+/* This is form section  */
+#formdiv{
+    display:inline-block;
+    position:relative;
+    left: 400px;
+    width:255px;
+    height:400px
+}
+h2{
+    margin-bottom: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:xx-large;
+}
+#input1{
+    margin-top:10px; 
+    margin-bottom: 20px;
+    width:250px;
+    height:20px;
+
+}
+#input2{
+    margin-top:10px; 
+    margin-bottom: 20px;
+    width:250px;
+    height:20px;
+
+}
+#input3{
+    margin-top:10px; 
+    margin-bottom: 20px;
+    width:250px;
+    height:20px;
+
+}
+#input4{
+    margin-top:10px; 
+    margin-bottom: 20px;
+    width:250px;
+    height:20px;
+
+}
+label2{
+    margin-top:20px;
+
+}
+#formbutton{
+    width:255px;
+    height:25px;
+    margin-top:10px;
+    cursor: pointer;
+
+}
+
+#formimagediv{
+    display:inline-block;
+    position:relative;
+    left: 600px;
+    width:400px;
+    height:400px;
+    top:15px;
+    right:100px;
+    margin-bottom:150px;
+
+
+}
+
+#formimagediv img{
+    width:100%;
+    height:auto;
+
+}
+
+/* This is table section  */
+#tablediv{
+    border: 1px green dotted;
+    
+    display:inline-block;
+    position:relative;
+    text-align:center;
+    width:600px;
+    height:450px;
+    top:200px;
+    right: 200px;
+    margin-bottom: 400px;
+
+}
+
+#tablediv table{
+    text-align:center;
+    padding:10px;
+}
+#tablediv table th,td{
+    border-bottom:2px black solid;
+    padding:10px;
+
+}
+
+#bottomdiv{
+    display:inline-block;
+    width:300px ;
+    height:300px;
+    position:relative;
+    left:200px;
+    margin-left:60px;
+    text-align: center;
+
+}
+
+/* This is footer section  */
+
+#footerdiv{
+    border:1px black solid;
+    background-color:rgb(5, 72, 50);
+    height: 75px;
+    
+}
+#footerdiv img{
+    width:50px;
+    display:inline;
+    margin-top:13px;
+    margin-left:250px;
+    margin-top:20px; 
+}
+
+#footerlogoandul{
+    text-align:left;
+    display:inline;
+}
+#footerdiv ol li{
+    position:relative;
+     bottom:15px;
+     left:20px;
+     font-family:monospace;
+     letter-spacing: 2px;
+}
+
+#reflabel{
+    text-align:center;
+    display:inline;
+    position:relative;
+    left:500px;
+    bottom:15px;
+    
+}
+
+#reflabel label{
+    color:azure;
+    position:relative;
+    
+}
+
+
+
+
+
